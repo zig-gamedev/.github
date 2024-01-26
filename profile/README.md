@@ -1,6 +1,6 @@
 # zig-gamedev
 
-Building a game developement ecosystem for the [Zig programming language and toolchain](https://ziglang.org/)!
+Building a game development ecosystem for the [Zig programming language and toolchain](https://ziglang.org/)!
 
 Development of libs and example applications happens in the [zig-gamedev monorepo](https://github.com/zig-gamedev/zig-gamedev) originally spawned in July 2021 by [Michal Ziulek](https://github.com/michal-z)
 
