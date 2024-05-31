@@ -6,7 +6,7 @@ Originally spawned in July 2021 by [Michal Ziulek](https://github.com/michal-z).
 * [Cross-platform sample applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-native-wgpu)
 * [DirectX 12 sample applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-directx-12)
 
-Zero the Ziguana is an official mascot of the Zig programming language and toolchain. Licensed under the Attribution 4.0 International (CC BY 4.0) https://github.com/ziglang/logo
+Zero the Ziguana is an official mascot of the Zig programming language and toolchain. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) https://github.com/ziglang/logo
 
 
 ## Vision
