@@ -16,7 +16,7 @@ Zero the Ziguana is an official mascot of the Zig programming language and toolc
 
 
 ## Libraries
-Note: Libraries are currently located in [the monorepo](https://github.com/zig-gamedev/zig-gamedev) and are each being migrated to there own repository.
+Note: Libraries are currently located in [the monorepo](https://github.com/zig-gamedev/zig-gamedev) and are each being migrated to their own repository.
 | Library                       | Description                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **[system-sdk](https://github.com/zig-gamedev/system-sdk)**     | System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/zig-gamedev#libraries)   
