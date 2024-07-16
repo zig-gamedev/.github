@@ -24,6 +24,7 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 | **[zbullet](https://github.com/zig-gamedev/zbullet)**   | Build package, [C API](https://github.com/zig-gamedev/zig-gamedev/tree/main/libs/zbullet/libs/cbullet) and bindings for [Bullet physics](https://github.com/bulletphysics/bullet3)                                                                           |
 | **[zd3d12](https://github.com/zig-gamedev/zd3d12)**     | Helper library for DirectX 12                                                                                 |
 | **[zflecs](https://github.com/zig-gamedev/zflecs)**     | Build package and bindings for [flecs](https://github.com/SanderMertens/flecs) ECS                                                         |
+| **[zemscripten](libs/zemscripten)**  | Build package and shims for [Emscripten](https://emscripten.org) emsdk |
 | **[zglfw](https://github.com/zig-gamedev/zglfw)**       | Build package & bindings for [GLFW](https://github.com/glfw/glfw)                                                                          |
 | **[zgpu](https://github.com/zig-gamedev/zgpu)**         | Small helper library built on top of [Dawn](https://github.com/zig-gamedev/dawn) native WebGPU implementation                              |
 | **[zgui](https://github.com/zig-gamedev/zgui)**         | Build package and bindings for [Dear Imgui](https://github.com/ocornut/imgui) (includes [ImPlot](https://github.com/epezent/implot))       |
