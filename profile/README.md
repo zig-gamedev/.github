@@ -27,7 +27,7 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 | **[zemscripten](libs/zemscripten)**  | Build package and shims for [Emscripten](https://emscripten.org) emsdk |
 | **[zglfw](https://github.com/zig-gamedev/zglfw)**       | Build package & bindings for [GLFW](https://github.com/glfw/glfw)                                                                          |
 | **[zgpu](https://github.com/zig-gamedev/zgpu)**         | Small helper library built on top of [Dawn](https://github.com/zig-gamedev/dawn) native WebGPU implementation                              |
-| **[zgui](https://github.com/zig-gamedev/zgui)**         | Build package and bindings for [Dear Imgui](https://github.com/ocornut/imgui) (includes [ImPlot](https://github.com/epezent/implot))       |
+| **[zgui](libs/zgui)**         | Build package and bindings for [Dear Imgui](https://github.com/ocornut/imgui), [Test engine](https://github.com/ocornut/imgui_test_engine), [ImPlot](https://github.com/epezent/implot), [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) and [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)                       |
 | **[zjobs](https://github.com/zig-gamedev/zjobs)**       | Generic job queue implementation                                                                                                           |
 | **[zmath](https://github.com/zig-gamedev/zmath)**       | SIMD math library for game developers                                                                                                      |
 | **[zmesh](https://github.com/zig-gamedev/zmesh)**       | Loading, generating, processing and optimizing triangle meshes                                                                             |
