@@ -54,3 +54,17 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 * [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig
 * [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
 * [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
+
+
+
+## Get Zig
+Zig is still in development. We track are currently tracking **0.13.0-dev.351+64ef45eb0**.
+
+[zigup](https://github.com/marler8997/zigup) is recommended for managing compiler versions. Alternatively, you can download and install manually using the links below:
+
+| OS/Arch         | Download link               |
+| --------------- | --------------------------- |
+| Windows x86_64  | [zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip](https://ziglang.org/builds/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip) |
+| Linux x86_64    | [zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+| macOS x86_64    | [zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+| macOS aarch64   | [zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz) |
