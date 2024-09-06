@@ -45,7 +45,6 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 | **[system-sdk](https://github.com/zig-gamedev/system-sdk)**     | System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/zig-gamedev#libraries)   
 | **[zaudio](https://github.com/zig-gamedev/zaudio)**     | Cross-platform audio using [miniaudio](https://github.com/mackron/miniaudio)                                                                         |
 | **[zbullet](https://github.com/zig-gamedev/zbullet)**   | Build package, [C API](https://github.com/zig-gamedev/zig-gamedev/tree/main/libs/zbullet/libs/cbullet) and bindings for [Bullet physics](https://github.com/bulletphysics/bullet3)                                                                           |
-| **[zd3d12](https://github.com/zig-gamedev/zd3d12)**     | Helper library for DirectX 12                                                                                 |
 | **[zflecs](https://github.com/zig-gamedev/zflecs)**     | Build package and bindings for [flecs](https://github.com/SanderMertens/flecs) ECS                                                         |
 | **[zemscripten](libs/zemscripten)**  | Build package and shims for [Emscripten](https://emscripten.org) emsdk |
 | **[zglfw](https://github.com/zig-gamedev/zglfw)**       | Build package & bindings for [GLFW](https://github.com/glfw/glfw)                                                                          |
@@ -63,6 +62,5 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 | **[zsdl](https://github.com/zig-gamedev/zsdl)**         | Bindings for SDL2 and SDL3                                                                               |
 | **[zstbi](https://github.com/zig-gamedev/zstbi)**       | Image reading, writing and resizing with [stb](https://github.com/nothings/stb) libraries                |
 | **[ztracy](https://github.com/zig-gamedev/ztracy)**     | Support for CPU profiling with [Tracy](https://github.com/wolfpld/tracy)                                                                   |
-| **[zwin32](https://github.com/zig-gamedev/zwin32)**     | Bindings for Win32 API (d3d12, d3d11, xaudio2, directml, wasapi and more)                                                                  |
-| **[zxaudio2](https://github.com/zig-gamedev/zxaudio2)** | Helper library for XAudio2                                                                               |    
+| **[zwindows](https://github.com/zig-gamedev/zwindows)** | Windows development SDK for Zig game developers.                                                               |
 
