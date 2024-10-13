@@ -1,45 +1,20 @@
 # zig-gamedev
 
-Originally spawned in July 2021 by [Michal Ziulek](https://github.com/michal-z). We build a game development ecosystem for the [Zig programming language and toolchain](https://ziglang.org/)
-
-* [Cross-platform and composable libraries](https://github.com/zig-gamedev/zig-gamedev#Libraries)
-* [Cross-platform sample applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-native-wgpu)
-* [DirectX 12 sample applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-directx-12)
+Originally spawned in July 2021 by [Michal Ziulek](https://github.com/michal-z). We build a game development ecosystem for the [Zig programming language and toolchain](https://ziglang.org/).
 
 Zero the Ziguana is an official mascot of the Zig programming language and toolchain. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) https://github.com/ziglang/logo
 
-
 ## Vision
-* Very modular toolbox of libraries
-* Zig is the only prerequisit to build on Windows, macOS and Linux; no platform specific libraries or build tools need to be installed
-* Libraries are written from scratch in Zig *or* provide bindings for carefully selected C/C++ libraries
+- A very modular toolbox of libraries.
+- Libraries are written from scratch in Zig or provide Ziggified bindings and build systems for carefully selected C and C++ libraries.
+- No system dependencies other than Zig required to build and run on Windows, macOS and Linux. (Others planned)
 
-## Public projects using zig-gamedev
+## Development repo
+What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zig-gamedev/zig-gamedev) is the main development hub for the [zig-gamedev libraries](libraries).
 
-* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open
-* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems
-* [krateroid](https://github.com/kussakaa/krateroid) - 3D strategy game
-* [blokens](https://github.com/btipling/blockens) - Voxel game
-* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua
-* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig
-* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
-
-
-## Get Zig
-Zig is still in development. We track are currently tracking **0.13.0-dev.351+64ef45eb0**.
-
-[zigup](https://github.com/marler8997/zigup) is recommended for managing compiler versions. Alternatively, you can download and install manually using the links below:
-
-| OS/Arch         | Download link               |
-| --------------- | --------------------------- |
-| Windows x86_64  | [zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip](https://ziglang.org/builds/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip) |
-| Linux x86_64    | [zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
-| macOS x86_64    | [zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
-| macOS aarch64   | [zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+NOTE: Libraries are currently being migrated to their own repositories.
 
 ## Libraries
-Note: Libraries are currently located in [the monorepo](https://github.com/zig-gamedev/zig-gamedev) and are each being migrated to their own repository.
 | Library                       | Description                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | **[system-sdk](https://github.com/zig-gamedev/system-sdk)**     | System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/zig-gamedev#libraries)   
@@ -63,4 +38,30 @@ Note: Libraries are currently located in [the monorepo](https://github.com/zig-g
 | **[zstbi](https://github.com/zig-gamedev/zstbi)**       | Image reading, writing and resizing with [stb](https://github.com/nothings/stb) libraries                |
 | **[ztracy](https://github.com/zig-gamedev/ztracy)**     | Support for CPU profiling with [Tracy](https://github.com/wolfpld/tracy)                                                                   |
 | **[zwindows](https://github.com/zig-gamedev/zwindows)** | Windows development SDK for Zig game developers.                                                               |
+
+
+## Projects using zig-gamedev
+
+* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open
+* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems
+* [krateroid](https://github.com/kussakaa/krateroid) - 3D strategy game
+* [blokens](https://github.com/btipling/blockens) - Voxel game
+* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua
+* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig
+* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
+* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
+
+
+## Get Zig
+Zig is still in development. We track are currently tracking **0.13.0-dev.351+64ef45eb0**.
+
+[zigup](https://github.com/marler8997/zigup) is recommended for managing compiler versions. Alternatively, you can download and install manually using the links below:
+
+| OS/Arch         | Download link               |
+| --------------- | --------------------------- |
+| Windows x86_64  | [zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip](https://ziglang.org/builds/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip) |
+| Linux x86_64    | [zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+| macOS x86_64    | [zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+| macOS aarch64   | [zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz](https://ziglang.org/builds/zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+
 
