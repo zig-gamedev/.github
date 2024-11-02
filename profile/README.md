@@ -53,15 +53,15 @@ NOTE: Libraries are currently being migrated to their own repositories.
 
 
 ## Get Zig
-Zig is still in development. We track are currently tracking **0.13.0-dev.351+64ef45eb0**.
+Zig is still in development. We track are currently tracking **0.14.0-dev.1911+8ee52f99c**.
 
 [zigup](https://github.com/marler8997/zigup) is recommended for managing compiler versions. Alternatively, you can download and install manually using the links below:
 
 | OS/Arch         | Download link               |
 | --------------- | --------------------------- |
-| Windows x86_64  | [zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip](https://pkg.machengine.org/zig/zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip) |
-| Linux x86_64    | [zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
-| macOS x86_64    | [zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz) |
-| macOS aarch64   | [zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz) |
+| Windows x86_64  | [zig-windows-x86_64-0.13.0-dev.351+64ef45eb0.zip](https://pkg.machengine.org/zig/zig-windows-x86_64-0.14.0-dev.1911+8ee52f99c.zip) |
+| Linux x86_64    | [zig-linux-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-linux-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
+| macOS x86_64    | [zig-macos-x86_64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-macos-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
+| macOS aarch64   | [zig-macos-aarch64-0.13.0-dev.351+64ef45eb0.tar.xz](https://pkg.machengine.org/zig/zig-macos-aarch64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
 
 
