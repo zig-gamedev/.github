@@ -50,11 +50,3 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 * [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
 
 
-| OS/Arch         | Download link               |
-| --------------- | --------------------------- |
-| Windows x86_64  | [zig-windows-x86_64-0.14.0-dev.1911+8ee52f99c.zip](https://pkg.machengine.org/zig/zig-windows-x86_64-0.14.0-dev.1911+8ee52f99c.zip) |
-| Linux x86_64    | [zig-linux-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz](https://pkg.machengine.org/zig/zig-linux-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
-| macOS x86_64    | [zig-macos-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz](https://pkg.machengine.org/zig/zig-macos-x86_64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
-| macOS aarch64   | [zig-macos-aarch64-0.14.0-dev.1911+8ee52f99c.tar.xz](https://pkg.machengine.org/zig/zig-macos-aarch64-0.14.0-dev.1911+8ee52f99c.tar.xz) |
-
-
