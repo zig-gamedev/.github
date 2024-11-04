@@ -12,8 +12,6 @@ Zero the Ziguana is an official mascot of the Zig programming language and toolc
 ## Development repo
 What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zig-gamedev/zig-gamedev) is the main development hub for the [zig-gamedev libraries](libraries).
 
-NOTE: Libraries are currently being migrated to their own repositories.
-
 ## Libraries
 | Library                       | Description                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------|
@@ -51,11 +49,6 @@ NOTE: Libraries are currently being migrated to their own repositories.
 * [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
 * [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
 
-
-## Get Zig
-Zig is still in development. We track are currently tracking **0.14.0-dev.1911+8ee52f99c**.
-
-[zigup](https://github.com/marler8997/zigup) is recommended for managing compiler versions. Alternatively, you can download and install manually using the links below:
 
 | OS/Arch         | Download link               |
 | --------------- | --------------------------- |
