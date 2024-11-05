@@ -16,7 +16,7 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 ## Libraries
 | Library                       | Description                                                                                                                |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **[system-sdk](https://github.com/zig-gamedev/system-sdk)**     | System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/zig-gamedev#libraries)   
+| **[system_sdk](https://github.com/zig-gamedev/system_sdk)**     | System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/zig-gamedev#libraries)   
 | **[zaudio](https://github.com/zig-gamedev/zaudio)**     | Cross-platform audio using [miniaudio](https://github.com/mackron/miniaudio)                                                                         |
 | **[zbullet](https://github.com/zig-gamedev/zbullet)**   | Build package, [C API](https://github.com/zig-gamedev/zig-gamedev/tree/main/libs/zbullet/libs/cbullet) and bindings for [Bullet physics](https://github.com/bulletphysics/bullet3)                                                                           |
 | **[zflecs](https://github.com/zig-gamedev/zflecs)**     | Build package and bindings for [flecs](https://github.com/SanderMertens/flecs) ECS                                                         |
