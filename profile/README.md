@@ -10,7 +10,17 @@ Zero the Ziguana is an official mascot of the Zig programming language and toolc
 - No system dependencies other than Zig required to build and run on popular target platforms.
 - Extensive range of sample appications.
 
-## Development repo
+## Projects using zig-gamedev
+
+* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open
+* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems
+* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua
+* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig
+* [blokens](https://github.com/btipling/blockens) - Voxel game
+* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
+* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
+
+## Dev repo
 What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zig-gamedev/zig-gamedev) is the main development hub for the [zig-gamedev libraries](libraries).
 
 ## Libraries
@@ -37,17 +47,4 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 | **[zstbi](https://github.com/zig-gamedev/zstbi)**       | Image reading, writing and resizing with [stb](https://github.com/nothings/stb) libraries                |
 | **[ztracy](https://github.com/zig-gamedev/ztracy)**     | Support for CPU profiling with [Tracy](https://github.com/wolfpld/tracy)                                                                   |
 | **[zwindows](https://github.com/zig-gamedev/zwindows)** | Windows development SDK for Zig game developers.                                                               |
-
-
-## Projects using zig-gamedev
-
-* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open
-* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems
-* [krateroid](https://github.com/kussakaa/krateroid) - 3D strategy game
-* [blokens](https://github.com/btipling/blockens) - Voxel game
-* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua
-* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig
-* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG
-* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig
-
 
