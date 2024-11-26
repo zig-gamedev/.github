@@ -7,8 +7,7 @@ Zero the Ziguana is an official mascot of the Zig programming language and toolc
 ## Vision
 - A very modular toolbox of libraries.
 - Libraries are written from scratch in Zig or provide Ziggified bindings and build systems for carefully selected C and C++ libraries.
-- No system dependencies other than Zig required to build and run on popular target platforms.
-- Extensive range of example appications.
+- Extensive range of example appications that require just Zig to build and run on all popular platforms.
 
 ## Projects using zig-gamedev
 
