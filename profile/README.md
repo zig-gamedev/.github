@@ -5,8 +5,8 @@ Originally spawned in July 2021 by [Michal Ziulek](https://github.com/michal-z).
 Zero the Ziguana is an official mascot of the Zig programming language and toolchain. Licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) https://github.com/ziglang/logo
 
 ## Vision
-- Very modular toolbox of libraries providing Ziggified bindings and build systems for carefully selected C and C++ libraries or written from scratch in Zig.
-- Extensive range of example appications that require just Zig to build and run on all popular platforms.
+- Very modular toolbox of [libraries](libraries) providing Ziggified bindings and build systems for carefully selected C and C++ libraries or written from scratch in Zig.
+- Extensive range of [example applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-native-wgpu) that require just Zig to build and run on all popular platforms.
 
 ## Projects using zig-gamedev
 
