@@ -8,16 +8,6 @@ Zero the Ziguana is an official mascot of the Zig programming language and toolc
 - Very modular toolbox of [libraries](#libraries) providing Ziggified bindings and build systems for carefully selected C and C++ libraries or written from scratch in Zig.
 - Extensive range of [example applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-native-wgpu) that require just Zig to build and run on all popular platforms.
 
-## Projects using zig-gamedev
-
-* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open.
-* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems.
-* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua.
-* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig.
-* [blokens](https://github.com/btipling/blockens) - Voxel game.
-* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG.
-* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
-
 ## Dev repo
 What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zig-gamedev/zig-gamedev) is the main development hub for the [libraries](#libraries) and [example applications](https://github.com/zig-gamedev/zig-gamedev#sample-applications-native-wgpu).
 
@@ -46,3 +36,12 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 | **[ztracy](https://github.com/zig-gamedev/ztracy)**     | Support for CPU profiling with [Tracy](https://github.com/wolfpld/tracy)                                                                   |
 | **[zwindows](https://github.com/zig-gamedev/zwindows)** | Windows development SDK for Zig game developers.                                                               |
 
+## Projects using zig-gamedev
+
+* [Tides of Revival](https://github.com/Srekel/tides-of-revival) - First-person, open-world, fantasy RPG being developed in the open.
+* [Simulations](https://github.com/ckrowland/simulations) - GPU Accelerated agent-based modeling to visualize and simulate complex systems.
+* [Delve Framework](https://github.com/Interrupt/delve-framework) - Simple game framework for making games with Lua.
+* [jok](https://github.com/jack-ji/jok) - A minimal 2D/3D game framework for Zig.
+* [blokens](https://github.com/btipling/blockens) - Voxel game.
+* [Aftersun](https://github.com/foxnne/aftersun) - Top-down 2D RPG.
+* [Pixi](https://github.com/foxnne/pixi) - Pixel art editor made with Zig.
