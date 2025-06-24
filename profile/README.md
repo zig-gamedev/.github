@@ -26,7 +26,7 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 | **[zmath](https://github.com/zig-gamedev/zmath)**       | SIMD math library for game developers                                                                                                      |
 | **[zmesh](https://github.com/zig-gamedev/zmesh)**       | Loading, generating, processing and optimizing triangle meshes                                                                             |
 | **[znoise](https://github.com/zig-gamedev/znoise)**     | Build package & bindings for [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)                                                      |
-| **[zopengl](https://github.com/zig-gamedev/zopengl)**   | OpenGL loader (supports 4.3 Core Profile and ES 2.0 Profile)                                                                               |
+| **[zopengl](https://github.com/zig-gamedev/zopengl)**   | OpenGL loader interface, bindings and optional type-safe wrapper for Zig (supports 4.3 Core Profile and ES 2.0 Profile).                                                                               |
 | **[zopenvr](https://github.com/zig-gamedev/zopenvr)**   | Bindings for [OpenVR](https://github.com/ValveSoftware/openvr)                                                                             |
 | **[zphysics](https://github.com/zig-gamedev/zphysics)** | Build package, [C API](libs/zphysics/libs/JoltC) and bindings for [Jolt Physics](https://github.com/jrouwe/JoltPhysics)                    |
 | **[zpix](https://github.com/zig-gamedev/zpix)**         | Support for GPU profiling with PIX for Windows                                                           |
