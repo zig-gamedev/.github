@@ -32,6 +32,7 @@ What was the original monorepo, the [zig-gamedev dev repo](https://github.com/zi
 | **[zpix](https://github.com/zig-gamedev/zpix)**         | Support for GPU profiling with PIX for Windows                                                           |
 | **[zpool](https://github.com/zig-gamedev/zpool)**       | Generic pool & handle implementation                                                                     |
 | **[zsdl](https://github.com/zig-gamedev/zsdl)**         | Bindings for SDL2 and SDL3                                                                               |
+| **[zslang](https://github.com/zig-gamedev/zslang)**     | Packages [Slang shader compiler](https://github.com/shader-slang/slang) and provides idiomatic Zig bindings.                       |
 | **[zstbi](https://github.com/zig-gamedev/zstbi)**       | Image reading, writing and resizing with [stb](https://github.com/nothings/stb) libraries                |
 | **[ztracy](https://github.com/zig-gamedev/ztracy)**     | Support for CPU profiling with [Tracy](https://github.com/wolfpld/tracy)                                                                   |
 | **[zwindows](https://github.com/zig-gamedev/zwindows)** | Windows development SDK for Zig game developers.                                                               |
